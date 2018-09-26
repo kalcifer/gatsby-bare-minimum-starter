@@ -1,0 +1,17 @@
+{
+  "name": "hindu-mythology-web",
+  "version": "1.0.0",
+  "description": "Website with info on Hindu mythology and characters",
+  "main": "index.js",
+  "author": "pksjce <pksjce@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.0.8",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  }
+}
